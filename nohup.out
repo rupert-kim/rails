@@ -6703,3 +6703,17 @@ ActionController::RoutingError (No route matches [GET] "/stylesheets/all.css"):
 	from /usr/local/share/ruby/site_ruby/rubygems/dependency.rb:256:in `to_spec'
 	from /usr/local/share/ruby/site_ruby/rubygems.rb:1182:in `gem'
 	from /usr/bin/rails:18:in `<main>'
+A server is already running. Check /usr/share/tomcat/apache-tomcat-7.0.34/webapps/yoonsub/web/tmp/pids/server.pid.
+=> Booting WEBrick
+=> Rails 4.1.0 application starting in development on http://0.0.0.0:3000
+=> Run `rails server -h` for more startup options
+=> Notice: server is listening on all interfaces (0.0.0.0). Consider using 127.0.0.1 (--binding option)
+=> Ctrl-C to shutdown server
+Exiting
+A server is already running. Check /usr/share/tomcat/apache-tomcat-7.0.34/webapps/yoonsub/web/tmp/pids/server.pid.
+=> Booting WEBrick
+=> Rails 4.1.0 application starting in development on http://0.0.0.0:3000
+=> Run `rails server -h` for more startup options
+=> Notice: server is listening on all interfaces (0.0.0.0). Consider using 127.0.0.1 (--binding option)
+=> Ctrl-C to shutdown server
+Exiting
